@@ -1,0 +1,15 @@
+body{
+text-align: center; 
+background: linear-gradient(#e1fafa,#d2fcdc)    
+}
+
+.title1 {
+text-align: center;
+font-variant: small-caps;  
+font-size:50px; 
+color: brown;    
+}
+.container
+{
+    text-align: center;
+}
